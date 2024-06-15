@@ -7,5 +7,5 @@
 
 - [ ] Results & disc
 - [ ] Clean notebook
-- [ ] try plotting the weights with the images applied
+- [x] try plotting the weights with the images applied
 - [ ] try adding L2 reg, dropout, cross entropy (if you have time)
